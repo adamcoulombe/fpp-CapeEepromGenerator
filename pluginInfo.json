@@ -1,0 +1,19 @@
+{
+	"repoName": "fpp-CapeEepromGenerator",
+	"name": "FPP Cape EEPROM Generator",
+	"author": "Adam Coulombe",
+	"description": "Create EEPROM Binaries for custom capes",
+	"homeURL": "https://github.com/adamcoulombe/fpp-CapeEepromGenerator",
+	"srcURL": "https://github.com/adamcoulombe/fpp-CapeEepromGenerator.git",
+	"bugURL": "https://github.com/adamcoulombe/fpp-CapeEepromGenerator/issues",
+	"versions": [
+
+		{
+			"minFPPVersion": "4.0",
+			"maxFPPVersion": "0",
+			"branch": "master",
+			"sha": ""
+		}
+	]
+}
+
