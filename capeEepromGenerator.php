@@ -22,7 +22,7 @@
   }
 </style>
 <div id="global" class="settings">
-<script src="/plugin.php?plugin=fpp-CapeEepromGenerator&page=capeEepromGenerator.js&nopage=1"></script>
+<script src="/plugin.php?plugin=fpp-CapeEepromGenerator&file=capeEepromGenerator.js&nopage=1"></script><form id="capeEepromGeneratorForm"></form>
 <form id="capeEepromGeneratorForm"></form>
 <div>
   <label for="eepromIdentifierFormat">
